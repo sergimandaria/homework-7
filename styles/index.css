@@ -185,8 +185,8 @@
 
 .cover {
     height: 500px;
-    background-color:rgba(243, 243, 243, 1) ;
-    background-image: url(/assets/pictures/lastttt.webp);
+    background-color: rgba(243, 243, 243, 1);
+    background-image: url(../assets/pictures/lastttt.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -196,11 +196,13 @@
     align-items: center;
     text-align: center;
 }
-.oneword{
+
+.oneword {
     color: rgba(255, 255, 255, 1);
     font-size: 1.6rem;
 }
-h3{
+
+h3 {
     font-size: 4rem;
     color: rgba(255, 255, 255, 1);
 }
