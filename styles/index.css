@@ -186,10 +186,13 @@
 .cover {
     height: 500px;
     background-color:rgba(243, 243, 243, 1) ;
-    background-image: url(/assets/pictures/lastmd.png);
+    background-image: url(/assets/pictures/mainbig.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-left: auto;
+        margin-right: auto;
+
 
 }
 
